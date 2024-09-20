@@ -10,7 +10,7 @@ Figure [1]
 
 ## Code Description
 the main architecture of APO-GCN lies in the `models.py`. The `APO-GCN1 and APO-GCN2.py` are the main backbone, while the rest necessary modules are distributed into different files based on their own functions, i.e., `VariableOperator.py`, `Variable_chevconv.py`. Please refer to each file to acquire more implementation details. 
-## environment config
+## Environment config
 numpy                     1.26.0
 python                    3.9.18
 tensorflow                2.10.0
